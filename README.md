@@ -1,5 +1,5 @@
-<h1 align="center">Hi</h1>
-<h3 align="center">I love to write code in different programming languages</h3>
+<h1 align="center">Bohdan Zephir0g Sukhovarov</h1>
+<h3 align="center">If the problem can be solved, it is not worth worrying about; if it cannot be solved, it is useless to worry about it.</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Applied+computer+science+student)](https://git.io/typing-svg)
 
