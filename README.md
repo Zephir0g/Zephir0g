@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bohdan</h1>
 <h3 align="center">I love to write code in different programming languages</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zepgir0g" alt="zepgir0g" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zephir0g" alt="zepgir0g" /></a> </p>
 
 - 🔭 I’m currently working on [Rouge-Like RPG Game](https://github.com/Zephir0g/Rouge-LikeRPG)
 
