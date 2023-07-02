@@ -1,6 +1,8 @@
 <h1 align="center">Good Day!👋 I'm Zephir0g</h1>
 <h3 align="center">I love to write code in different programming languages</h3>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Applied+computer+science+student)](https://git.io/typing-svg)
+
 - 🔭 I’m currently working on [Rouge-Like RPG Game](https://github.com/Zephir0g/Rouge-LikeRPG)
 
 - 🌱 I’m currently learning **Java**
@@ -26,7 +28,7 @@
 <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zephir0g&hide_progress=true&theme=transparent">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fo4Ik-git/Zephir0g/1062613268e69fdfc44b3ead04badf00d2eb6112/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fo4Ik-git/Zephir0g/1062613268e69fdfc44b3ead04badf00d2eb6112/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Zephir0g/Zephir0g/1062613268e69fdfc44b3ead04badf00d2eb6112/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zephir0g/Zephir0g/main/github-user-contribution.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zephir0g/Zephir0g/main/github-user-contribution.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Zephir0g/Zephir0g/main/github-user-contribution.svg" />
 </picture>
