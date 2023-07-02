@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bohdan</h1>
+<h1 align="center">Good Day!👋 I'm Zephir0g</h1>
 <h3 align="center">I love to write code in different programming languages</h3>
 
 - 🔭 I’m currently working on [Rouge-Like RPG Game](https://github.com/Zephir0g/Rouge-LikeRPG)
