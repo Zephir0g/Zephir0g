@@ -23,4 +23,4 @@
 ![Codewars](https://github.r2v.ch/codewars?user=Zephir0g)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Zephir0g&show_icons=true&theme=transparent">
-<img align="left" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zephir0g&hide_progress=true&theme=transparent">
+<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zephir0g&hide_progress=true&theme=transparent">
