@@ -24,3 +24,9 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Zephir0g&show_icons=true&theme=transparent">
 <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zephir0g&hide_progress=true&theme=transparent">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fo4Ik-git/Fo4Ik-git/1062613268e69fdfc44b3ead04badf00d2eb6112/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fo4Ik-git/Fo4Ik-git/1062613268e69fdfc44b3ead04badf00d2eb6112/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Zephir0g/Zephir0g/1062613268e69fdfc44b3ead04badf00d2eb6112/github-contribution-grid-snake.svg" />
+</picture>
