@@ -16,7 +16,7 @@
 <a href="https://www.linkedin.com/in/bohdan-sukhovarov-692185282/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bohdan (zephir0g) sukhovarov" height="30" width="40" /></a>
 <a href="https://instagram.com/bogdp_26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bogdp_26" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/zephir0g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zephir0g" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/zephir0g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zephir0g" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/nadgobvoravohus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zephir0g" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
