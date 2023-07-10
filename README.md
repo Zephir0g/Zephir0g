@@ -1,7 +1,7 @@
 <h1 align="center">Bohdan Zephir0g Sukhovarov</h1>
 <h3 align="center">If the problem can be solved, it is not worth worrying about; if it cannot be solved, it is useless to worry about it.</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Software+Engineer+student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Software+Engineer+student)]([https://git.io/typing-svg](https://github.r2v.ch/codewars?user=Zephir0g))
 
 - 🔭 I’m currently working on [Rouge-Like RPG Game](https://github.com/Zephir0g/Rouge-LikeRPG)
 
