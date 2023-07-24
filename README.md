@@ -2,7 +2,7 @@
 
 <h1 align="center">Bohdan Zephir0g Sukhovarov</h1>
 <h3 align="center">If the problem can be solved, it is not worth worrying about; if it cannot be solved, it is useless to worry about it.</h3>
-<img align="right" alt="Coding" width="400" hight="600" src="https://i.gifer.com/origin/4c/4cb541d14a34a588ec86e67c069a11c0_w200.webp">
+<img align="right" alt="Coding" src="https://i.gifer.com/origin/4c/4cb541d14a34a588ec86e67c069a11c0_w200.webp" height="400" width="250" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Software+Engineer+student)]([https://git.io/typing-svg](https://github.r2v.ch/codewars?user=Zephir0g))
 
