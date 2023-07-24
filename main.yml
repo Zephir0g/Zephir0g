@@ -1,11 +1,11 @@
 # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-      - name: generate github-contribution-grid-snake.svg
+      - name: generate github-user-contribution.svg
         uses: Platane/snk/svg-only@v2
         with:
           github_user_name: ${{ github.Zephir0g }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-user-contribution.svg
+            dist/github-user-contribution.svg
       
       # push the content of <build_dir> to the output branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
