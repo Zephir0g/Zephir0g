@@ -8,7 +8,7 @@
 
 ### 📚 About Me
 
-Hello! Welcome to my GitHub profile. I'm Bohdan Sukhovarov, also known as Zephir0g. I'm a passionate software engineer student with a keen interest in coding, problem-solving, and building interesting projects. My primary focus is on Java programming and developing rogue-like RPG games. I love to explore new technologies and work collaboratively on exciting projects.
+Hello! Welcome to my GitHub profile. I'm Bohdan Sukhovarov, also known as Zephir0g. I'm a passionate software engineer student with a keen interest in coding, problem-solving, and building interesting projects. My primary focus is on Java programming and developing games. I love to explore new technologies and work collaboratively on exciting projects.
 
 ### 📫 How to Reach Me
 
@@ -18,8 +18,9 @@ Hello! Welcome to my GitHub profile. I'm Bohdan Sukhovarov, also known as Zephir
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bohdan-sukhovarov-692185282/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bogdp_26)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/zephir0g)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/nadgobvoravohus)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCJ-2z07hsxrF3DkI8bD97NQ)
+
+[![CodeWars](https://www.codewars.com/users/Zephir0g/badges/large)](https://www.leetcode.com/nadgobvoravohus)
 
 ### 🛠️ Languages and Tools
 
@@ -42,7 +43,11 @@ Hello! Welcome to my GitHub profile. I'm Bohdan Sukhovarov, also known as Zephir
 
 ### 🐍 GitHub Contribution Snake
 
-![GitHub Contribution Snake](https://github.com/Zephir0g/github-snake/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="snake.svg" />
+  <img alt="github-snake" src="snake.svg" />
+</picture>
 
 ### 🚀 GitHub Streak Stats
 
@@ -50,7 +55,9 @@ Hello! Welcome to my GitHub profile. I'm Bohdan Sukhovarov, also known as Zephir
 
 ### 🎶 Now Playing on Spotify
 
-![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)
+<a href="https://github.com/tthn0/Spotify-Readme">
+  <img src="https://spotify-readme-zephir0g.vercel.app/api?theme=dark" alt="Current Spotify Song">
+</a>
 
 ---
 
