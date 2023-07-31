@@ -38,8 +38,7 @@ Hello! Welcome to my GitHub profile. I'm Bohdan Sukhovarov, also known as Zephir
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zephir0g&show_icons=true&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zephir0g&hide_progress=true&theme=transparent)
+<img src="https://myreadme.vercel.app/api/embed/Zephir0g?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 ### 🐍 GitHub Contribution Snake
 
