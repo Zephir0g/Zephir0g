@@ -20,7 +20,7 @@ Hello! Welcome to my GitHub profile. I'm Bohdan Sukhovarov, also known as Zephir
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bogdp_26)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCJ-2z07hsxrF3DkI8bD97NQ)
 
-[![CodeWars](https://www.codewars.com/users/Zephir0g/badges/large)](https://www.leetcode.com/nadgobvoravohus)
+[![CodeWars](https://www.codewars.com/users/Zephir0g/badges/large)](https://www.codewars.com/users/Zephir0g)
 
 ### 🛠️ Languages and Tools
 
