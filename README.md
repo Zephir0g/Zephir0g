@@ -42,7 +42,12 @@ Hello! Welcome to my GitHub profile. I'm Bohdan Sukhovarov, also known as Zephir
 
 ### 🐍 GitHub Contribution Snake
 
-![Snake animation](https://github.com/Zephir0g/Zephir0g/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/Zephir0g/Zephir0g/blob/output/github-contribution-grid-snake.svg) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Zephir0g/Zephir0g/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zephir0g/Zephir0g/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Zephir0g/Zephir0g/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ### 🚀 GitHub Streak Stats
 
