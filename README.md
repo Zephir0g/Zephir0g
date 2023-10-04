@@ -58,7 +58,3 @@ Hello! Welcome to my GitHub profile. I'm Bohdan Sukhovarov. I'm a passionate sof
 <a href="https://open.spotify.com/user/6vq1yanwt3koyfl3m5hwe0o3b?si=3d59a6e169f94957">
   <img src="https://spotify-readme-zephir0g.vercel.app/api?theme=dark" alt="Current Spotify Song">
 </a>
-
----
-
-This README was inspired by various GitHub profiles and READMEs from the open-source community. Feel free to check out my projects, and don't hesitate to get in touch if you want to collaborate or have any questions! Let's code and create together! 😄
