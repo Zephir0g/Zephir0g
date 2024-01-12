@@ -4,7 +4,7 @@
 
 > "If the problem can be solved, it is not worth worrying about; if it cannot be solved, it is useless to worry about it."
 
-### 👨‍💻 Software Engineer Student | 🌱 Currently Learning Java
+### 👨‍💻 Software Engineer Student | 🌱 Currently Learning Java |  Java Entwikler 
 
 ### 📚 About Me
 
