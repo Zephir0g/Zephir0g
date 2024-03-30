@@ -1,6 +1,7 @@
 # Bohdan "Zephir0g" Sukhovarov
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Zephir0g&color=brightgreen)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C658%20hrs%2059%20mins-blue)
 
 > "If the problem can be solved, it is not worth worrying about; if it cannot be solved, it is useless to worry about it."
 
