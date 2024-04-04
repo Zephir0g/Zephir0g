@@ -40,7 +40,7 @@ Hello! Welcome to my GitHub profile. I'm Bohdan Sukhovarov. I'm a passionate sof
 
 <img src="https://myreadme.vercel.app/api/embed/Zephir0g?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
-### 🐍 GitHub Contribution Snake
+### 🐍 GitHub Contribution Snake!
 
 <!-- ![Snake animation](https://github.com/Zephir0g/Zephir0g/blob/output/github-contribution-grid-snake.svg) -->
 <picture>
