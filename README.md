@@ -8,7 +8,7 @@
 
 ### 📚 About Me
 
-Hello! Welcome to my GitHub profile. I'm Bohdan Sukhovarov. I'm a passionate software engineer student with a keen interest in coding, problem-solving, and building interesting projects. My primary focus is on Java programming and developing games. I love to explore new technologies and work collaboratively on exciting projects.
+Hello! Welcome to my GitHub profile. I'm Bohdan Sukhovarov. I'm a passionate software engineer with a keen interest in coding, problem-solving, and building interesting projects. My primary focus is on Java programming and developing games. I love to explore new technologies and work collaboratively on exciting projects.
 
 ### 📫 How to Reach Me
 
